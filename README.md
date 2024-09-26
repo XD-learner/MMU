@@ -1,8 +1,8 @@
 <h1>Digital Vending Machine ........</h1>
-![image](https://github.com/user-attachments/assets/2074422f-cb5f-451b-aed9-bf14bcaf1c5b)
+
 
 <h1>For MMU 26/9/2024 Project Submission. </h1>
-<code>Soruce Code</code><a>https://github.com/XD-learner/MMU/blob/main/Program_File_Vend.c</a>
+<code>Soruce Code</code>(https://github.com/XD-learner/MMU/blob/main/Program_File_Vend.c)
 <h1>Group members</h1>
 <h2>1. TAN GUANG YANG </h2>
 
